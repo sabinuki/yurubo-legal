@@ -3,6 +3,7 @@
 アプリ「ゆるぼ」の法務文書を GitHub Pages で公開するためのリポジトリ。
 
 - プライバシーポリシー: https://sabinuki.github.io/yurubo-legal/
+- サポート: https://sabinuki.github.io/yurubo-legal/support.html（App Store Connect のサポート URL）
 
 **文面の正は本リポジトリの `index.html`**。アプリ本体リポジトリ（`sabinuki/yurubo`）には文面を置かず、`docs/product/privacy-policy.md` に「公開ページの各項目が実装のどこに対応するか」の一覧と記載方針だけを持つ。
 
